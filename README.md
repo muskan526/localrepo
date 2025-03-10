@@ -1,2 +1,2 @@
 # This is my local repo
-<h1>This is feature branch</h1>
+<p>This is feature branch</p>
